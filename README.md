@@ -1,3 +1,5 @@
+bats-mock is no longer actively maintained by VMware.
+
 # bats-mock
 
 [![Build Status](https://travis-ci.org/grayhemp/bats-mock.svg?branch=master)](https://travis-ci.org/grayhemp/bats-mock)
